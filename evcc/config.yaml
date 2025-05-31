@@ -1,9 +1,9 @@
 ---
-name: evcc
+name: evcc [modified]
 version: latest
 slug: evcc
-description: EV Charge Controller!
-url: https://github.com/evcc-io/evcc
+description: EV Charge Controller! [modified]
+url: https://github.com/apromix/hassio-addon/
 arch: 
   - armhf
   - armv7
